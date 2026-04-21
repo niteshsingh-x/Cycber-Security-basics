@@ -40,14 +40,6 @@ Cyber Security and Internet Governance are essential for ensuring safe, secure, 
 
 
 
-
-
-
-
-
-
-
-
 🔥 Q2. Internet Governance + Challenges + CIA Triad (12M)
 Internet Governance:
 Internet Governance is the process of developing and applying shared principles, rules, and decision-making procedures that shape the evolution and use of the Internet.
@@ -73,8 +65,6 @@ Effective governance ensures secure and fair use of the Internet worldwide.
 
 
 
-
-
 🔥 Q3. Cyber Threats (12M)
 Cyber threats are malicious activities that aim to damage, disrupt, or gain unauthorized access to systems.
 Types:
@@ -94,7 +84,6 @@ Used for political or economic gain
 
 Conclusion:
 Cyber threats are increasing and require strong security measures.
-
 
 
 
@@ -126,7 +115,6 @@ Fixing vulnerabilities is critical to prevent attacks.
 
 
 
-
 🔥 Q5. OWASP Top 10 + Authentication (12M)
 OWASP Top 10 (2021):
 Broken Access Control
@@ -152,8 +140,6 @@ Kerberos
 
 Conclusion:
 OWASP helps identify risks, and authentication ensures secure access.
-
-
 
 
 
@@ -213,4 +199,191 @@ Cybersecurity safeguards ensure complete protection through layered security.
 
 
 
+🔥 Q7. DoS Attack + Types + Firewalls & IDS (12M)
+DoS Attack:
+Denial of Service (DoS) attack aims to make a system or network unavailable.
+Types:
+DoS (single system attack)
+DDoS (multiple systems attack)
+Application layer attack
+Network flooding
+
+Firewalls:
+Firewall is a security system that monitors and controls network traffic.
+Types / Generations:
+Packet Filtering Firewall
+Stateful Inspection Firewall
+Proxy Firewall
+Next-Generation Firewall
+
+IDS (Intrusion Detection System):
+IDS monitors network for malicious activities.
+Types:
+NIDS (Network-based)
+HIDS (Host-based)
+
+Conclusion:
+Firewalls and IDS help detect and prevent attacks like DoS.
+
+
+
+
+🔥 Q8. SOAP + Identity Management + Web Services (12M)
+SOAP (Simple Object Access Protocol):
+SOAP is a protocol used for exchanging structured information in web services using XML.
+
+Features:
+Platform independent
+Uses XML
+Works over HTTP
+
+Identity Management:
+Manages user identities and access.
+Functions:
+Authentication
+Authorization
+User management
+
+Web Services Security:
+Secure communication
+Data encryption
+Access control
+
+Conclusion:
+SOAP and identity management ensure secure web services.
+
+
+
+
+
+🔥 Q9. Malware + Characteristics + Infection + IDS vs IPS (12M)
+Malware:
+Malware is malicious software designed to damage systems or steal data.
+
+Characteristics:
+Self-replicating
+Hidden execution
+Data theft
+System damage
+
+Infection Methods:
+Email attachments
+Malicious websites
+USB devices
+Software downloads
+
+IDS vs IPS:
+IDS
+IPS
+Detects attacks
+Prevents attacks
+Passive system
+Active system
+Alerts only
+Blocks threats
+
+Conclusion:
+Malware protection requires detection and prevention systems.
+
+
+
+
+
+🔥 Q10. Security for HTTP + Terms (12M)
+Security for HTTP Applications:
+Use HTTPS
+Encryption
+Authentication
+Secure cookies
+
+Terms:
+Intrusion: Unauthorized access to system
+Physical Theft: Stealing hardware or devices
+Abuse of Privileges: Misuse of access rights
+Unauthorized Access: Access without permission
+
+Conclusion:
+Proper HTTP security prevents web-based attacks.
+
+
+
+
+
+
+🔥 Q11. Cryptography + Types (12M)
+Cryptography:
+Cryptography is the process of securing data by converting it into unreadable form.
+
+Working:
+Plain text → Encryption → Cipher text
+Cipher text → Decryption → Plain text
+
+Types:
+Symmetric Key (same key)
+Asymmetric Key (public & private key)
+
+Example:
+AES, RSA
+
+Conclusion:
+Cryptography ensures secure communication.
+
+
+
+
+
+
+🔥 Q12. VPN Security + Layers (12M)
+VPN (Virtual Private Network):
+VPN provides secure communication over the internet.
+
+Security at Layers:
+Application Layer:
+User-level security
+Authentication
+Transport Layer:
+Encryption using SSL/TLS
+Network Layer:
+IPsec protocol
+Secure data packets
+
+Conclusion:
+VPN protects data across multiple layers.
+
+
+
+
+🔥 Q13. Firewall + Evolution (12M)
+Firewall:
+Firewall is a network security device that filters traffic.
+
+Evolution:
+Packet Filtering
+Stateful Firewall
+Proxy Firewall
+Next-Gen Firewall
+
+Conclusion:
+Firewalls evolved to provide stronger security.
+
+
+
+
+
+🔥 Q14. International Law + IT Act 2000 (12M)
+Role of International Law:
+Governs cyber activities globally
+Promotes cooperation
+Prevents cyber crimes
+
+IT Act 2000:
+Indian law for cyber security.
+Key Points:
+Legal recognition of electronic records
+Digital signatures
+Cybercrime penalties
+Data protection
+
+Conclusion:
+Laws ensure safe and legal use of cyberspace.
 
