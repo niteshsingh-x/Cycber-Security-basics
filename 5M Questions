@@ -63,4 +63,109 @@ Example: HTTPS websites use SSL for secure browsing.
 
 
 
+🔥 5. Denial of Service (DoS) (5M)
+Denial of Service (DoS) is an attack that makes a system or network unavailable to users.
+Types:
+● DoS (single attacker)
+● DDoS (multiple attackers)
+Effects:
+● Server crash
+● Slow performance
+● Service unavailability
+Conclusion: DoS attacks disrupt normal operations of systems.
+
+
+
+🔥 6. Firewalls & IDS (5M)
+Firewall:
+A firewall is a network security system that monitors and controls incoming and outgoing traffic.
+Types:
+● Packet filtering
+● Stateful firewall
+● Proxy firewall
+IDS (Intrusion Detection System):
+IDS monitors network activity to detect malicious actions.
+Types:
+● NIDS (Network-based)
+● HIDS (Host-based)
+Conclusion: Firewalls prevent attacks, while IDS detects them.
+
+
+
+🔥 7. Cyber Security (5M)
+Cyber Security is the practice of protecting systems, networks, and data from cyber attacks.
+It ensures:
+● Confidentiality
+● Integrity
+● Availability
+Uses:
+● Protects sensitive data
+● Prevents cyber attacks
+● Ensures safe communication
+Conclusion: Cyber security is essential for digital protection.
+
+
+
+
+🔥 8. Cyber Criminals (5M)
+Cyber criminals are individuals or groups who use computers and networks to perform illegal
+activities.
+Types:
+● Black-hat hackers
+● Gray-hat hackers
+● White-hat hackers
+Activities:
+● Hacking
+● Identity theft
+● Fraud
+● Data theft
+Conclusion: Cyber criminals exploit system vulnerabilities for personal gain.
+
+
+
+🔥 9. Governance Challenges & Constraints (5M)
+Internet governance faces several challenges:
+● Complexity of stakeholders
+● Jurisdiction issues
+● Cybersecurity threats
+● Privacy concerns
+● Digital divide
+● Content regulation
+● Intellectual property issues
+Conclusion: These challenges make internet regulation difficult.
+
+
+
+
+🔥 10. Hacking with Example (5M)
+Hacking is the process of gaining unauthorized access to a computer system or network.
+Example:
+An attacker uses SQL Injection to access a database and steal user information.
+Types:
+● Ethical hacking
+● Malicious hacking
+Conclusion: Hacking can be harmful if done without permission.
+
+
+
+
+🔥 11. CIA Triad (5M)
+CIA Triad is the foundation of cyber security.
+Components:
+● Confidentiality – Protect data from unauthorized access
+● Integrity – Ensure data accuracy
+● Availability – Ensure data is accessible
+Conclusion: CIA triad ensures secure information systems.
+
+
+
+🔥 12. Confidentiality with Example (5M)
+Confidentiality ensures that sensitive information is accessible only to authorized users.
+Methods:
+● Encryption
+● Password protection
+● Access control
+Example:
+Bank account details are accessible only to the account holder.
+Conclusion: Confidentiality protects privacy and sensitive data.
 
