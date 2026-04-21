@@ -15,3 +15,8 @@ It is performed by authorized professionals to improve security.
 System integrity validation is the process of ensuring that a system and its data are accurate,
 consistent, and not tampered with.
 It helps detect unauthorized changes.
+
+4) Network Session Analysis
+Network session analysis is the process of monitoring and analyzing network traffic sessions to
+detect suspicious or malicious activities.
+It helps in identifying cyber attacks.
