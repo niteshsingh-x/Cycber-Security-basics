@@ -20,3 +20,16 @@ It helps detect unauthorized changes.
 Network session analysis is the process of monitoring and analyzing network traffic sessions to
 detect suspicious or malicious activities.
 It helps in identifying cyber attacks.
+
+5) Virus
+A virus is a type of malware that attaches itself to files or programs and spreads from one system to
+another, causing damage or data loss.
+
+6) Cyber Security Standards
+Cyber security standards are guidelines and best practices used to protect systems and data.
+Examples include ISO standards and security frameworks.
+
+7) Cyber Security
+Cyber Security is the protection of computer systems, networks, and data from unauthorized access
+and cyber threats.
+
