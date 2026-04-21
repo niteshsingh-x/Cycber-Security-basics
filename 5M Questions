@@ -1,1 +1,66 @@
 
+🔥 1. Cyber Security Vulnerabilities (5M)
+Cyber Security Vulnerabilities are weaknesses or flaws in systems, networks, or applications that
+can be exploited by attackers to gain unauthorized access or cause damage.
+These vulnerabilities arise due to:
+● Software bugs
+● Misconfiguration
+● Weak passwords
+● Outdated systems
+Examples:
+● Malware
+● Phishing attacks
+● Ransomware
+● Data breaches
+Conclusion: Identifying and fixing vulnerabilities is essential to protect systems and sensitive data.
+
+
+
+🔥 2. Access Control (5M)
+Access Control is a security technique that restricts access to resources only to authorized users.
+It ensures:
+● Authentication (who you are)
+● Authorization (what you can access)
+Types:
+● Role-Based Access Control (RBAC)
+● Mandatory Access Control (MAC)
+● Discretionary Access Control (DAC)
+● Attribute-Based Access Control (ABAC)
+Importance:
+● Prevents unauthorized access
+● Protects sensitive data
+
+
+
+🔥 3. Authentication & Types (5M)
+Authentication is the process of verifying the identity of a user before granting access.
+Steps:
+● Identification
+● Verification
+● Validation
+Types of Authentication:
+● Single Factor Authentication
+● Multi-Factor Authentication (MFA)
+● Two-Factor Authentication (2FA)
+● Biometric Authentication
+● One-Time Password (OTP)
+Conclusion: Authentication ensures only authorized users can access systems.
+
+
+
+🔥 4. SSL Authentication (5M)
+SSL (Secure Sockets Layer) is a security protocol used to encrypt communication between a client
+and a server.
+Working:
+● Establishes secure connection
+● Encrypts data transmission
+● Uses digital certificates
+Features:
+● Data confidentiality
+● Data integrity
+● Authentication of server
+Example: HTTPS websites use SSL for secure browsing.
+
+
+
+
