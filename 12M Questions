@@ -1,1 +1,216 @@
 
+🔥 Q1. Cyber Security + Overview + Internet Governance Challenges (12M)
+Cyber Security is the application of technologies, processes, and controls to protect systems, networks, programs, devices, and data from cyber-attacks. It aims to reduce risks and protect against unauthorized access.
+Overview of Cyber Security:
+Cyber Security focuses on protecting:
+Systems and networks
+Data and information
+Devices and applications
+It is based on the CIA Triad:
+Confidentiality – Data accessible only to authorized users
+Integrity – Data remains accurate and unchanged
+Availability – Systems are accessible when needed
+It also includes:
+Authentication mechanisms (username, password)
+Protection against cyber threats
+Data storage and transmission security
+
+Internet Governance:
+Internet Governance refers to rules, policies, standards, and practices that regulate and manage the use of the Internet globally.
+It involves:
+Governments
+Private sector
+Civil society
+
+Challenges of Internet Governance:
+Complexity – Multiple stakeholders involved
+Jurisdiction Issues – Cross-border legal conflicts
+Cybersecurity Threats – Increasing attacks
+Privacy Concerns – Data protection issues
+Digital Divide – Unequal access to internet
+Content Regulation – Controlling harmful content
+Intellectual Property Issues
+Technical Standards Coordination
+Governance Model Conflicts
+
+Conclusion:
+Cyber Security and Internet Governance are essential for ensuring safe, secure, and reliable digital communication.
+
+
+
+
+
+
+
+
+
+
+
+
+
+🔥 Q2. Internet Governance + Challenges + CIA Triad (12M)
+Internet Governance:
+Internet Governance is the process of developing and applying shared principles, rules, and decision-making procedures that shape the evolution and use of the Internet.
+
+Challenges & Constraints:
+Complexity of global stakeholders
+Legal jurisdiction conflicts
+Cybersecurity threats
+Privacy and data protection issues
+Digital divide
+Content regulation issues
+Intellectual property rights
+Technical coordination
+
+CIA Triad:
+Confidentiality: Protects sensitive data from unauthorized access
+Integrity: Ensures data accuracy and consistency
+Availability: Ensures systems and data are available when required
+
+Conclusion:
+Effective governance ensures secure and fair use of the Internet worldwide.
+
+
+
+
+
+
+🔥 Q3. Cyber Threats (12M)
+Cyber threats are malicious activities that aim to damage, disrupt, or gain unauthorized access to systems.
+Types:
+1. Cyber Warfare
+Attacks by nations
+Targets critical infrastructure
+Affects national security
+2. Cyber Crime
+Illegal activities using computers
+Examples: hacking, fraud, identity theft
+3. Cyber Terrorism
+Use of internet for terrorist activities
+Creates fear and disrupts systems
+4. Cyber Espionage
+Stealing sensitive data secretly
+Used for political or economic gain
+
+Conclusion:
+Cyber threats are increasing and require strong security measures.
+
+
+
+
+
+
+🔥 Q4. Cyber Security Vulnerability + Software Vulnerabilities (12M)
+Cyber Security Vulnerability is a weakness in systems or networks that attackers exploit.
+Types:
+Malware
+Phishing
+Ransomware
+Data breaches
+
+Software Vulnerabilities:
+Weaknesses in software due to:
+Coding errors
+Poor design
+Lack of validation
+Misconfiguration
+Examples (SANS Top):
+SQL Injection
+XSS
+Buffer overflow
+Path traversal
+
+Conclusion:
+Fixing vulnerabilities is critical to prevent attacks.
+
+
+
+
+
+🔥 Q5. OWASP Top 10 + Authentication (12M)
+OWASP Top 10 (2021):
+Broken Access Control
+Cryptographic Failures
+Injection
+Insecure Design
+Security Misconfiguration
+Vulnerable Components
+Authentication Failures
+Data Integrity Failures
+Logging Failures
+SSRF
+
+Authentication:
+Authentication is the process of verifying user identity.
+Types:
+Single Factor
+Multi-Factor
+Two-Factor
+OTP
+Biometrics
+Kerberos
+
+Conclusion:
+OWASP helps identify risks, and authentication ensures secure access.
+
+
+
+
+
+
+
+🔥 Q6. Cyber Security Safeguards + Access Control + Audit + Authentication & Biometrics (12M)
+Cyber Security Safeguards:
+Cybersecurity safeguards are measures used to protect systems, networks, and data from attacks and unauthorized access.
+Overview (Safeguards):
+Firewalls
+Antivirus software
+Encryption
+Access control
+IDS/IPS
+Backup & recovery
+Security awareness
+
+Access Control:
+Access control restricts access to resources to authorized users only.
+Types:
+RBAC (Role-Based)
+MAC (Mandatory)
+DAC (Discretionary)
+ABAC (Attribute-Based)
+Importance: Prevents unauthorized access and protects data.
+
+Audit:
+Audit is the process of evaluating security policies and controls.
+Types:
+Internal audit
+External audit
+IT audit
+Compliance audit
+Importance:
+Identifies vulnerabilities
+Ensures compliance
+Improves security
+
+Authentication:
+Authentication verifies user identity.
+Steps:
+Identification
+Verification
+Validation
+
+Biometrics:
+Biometric authentication uses physical traits.
+Examples:
+Fingerprint
+Face recognition
+Retina scan
+
+Conclusion:
+Cybersecurity safeguards ensure complete protection through layered security.
+
+
+
+
+
+
