@@ -33,3 +33,31 @@ Examples include ISO standards and security frameworks.
 Cyber Security is the protection of computer systems, networks, and data from unauthorized access
 and cyber threats.
 
+8) Poor Cyber Security Awareness
+Poor cyber security awareness refers to lack of knowledge about security practices among users.
+It leads to risks like weak passwords, phishing attacks, and data breaches.
+
+9) Malware Infection
+Malware infection occurs when malicious software enters a system through emails, downloads, or
+websites and damages or steals data.
+
+10) Difference between Logic Bomb and Worms
+● Logic Bomb: Activates when a specific condition is met
+● Worm: Self-replicating malware that spreads automatically
+
+11) Spyware – Working & Prevention
+Spyware secretly collects user information and sends it to attackers.
+Prevention:
+● Install antivirus software
+● Avoid suspicious downloads
+● Keep software updated
+
+12) Protocols with Port Numbers
+Application Layer:
+● HTTP – Port 80
+● HTTPS – Port 443
+● FTP – Port 21
+Transport Layer:
+● TCP / UDP
+Network Layer:
+● IP protocol
